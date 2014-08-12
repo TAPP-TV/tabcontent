@@ -2,6 +2,10 @@
 
 > menucool's library wrapped up in a nice little bower component that is easy to add to your project.
 
+## Install Using Bower
+
+	bower install git@github.com:TAPP-TV/tabcontent.git#2013.7.6 --save
+
 ## Features
 
 * Javascript (packed 3KB)
