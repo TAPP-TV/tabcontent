@@ -1,0 +1,14 @@
+{
+  "name": "tabcontent",
+  "version": "2013.7.6",
+  "license": "MIT",
+  "homepage": "http://www.menucool.com/tabbed-content",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
