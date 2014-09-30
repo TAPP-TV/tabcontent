@@ -4,7 +4,9 @@
 
 ## Install Using Bower
 
-	bower install git@github.com:TAPP-TV/tabcontent.git#2013.7.6 --save
+Make sure the version number at the end of the url matches the latest release version.
+
+	bower install git@github.com:TAPP-TV/tabcontent.git#2013.7.8 --save
 
 ## Features
 
