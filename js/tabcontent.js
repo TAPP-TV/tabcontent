@@ -1,4 +1,4 @@
-/* http://www.menucool.com/tabbed-content Free to use. Version 2013.7.7 */
+/* http://www.menucool.com/tabbed-content Free to use. Version 2013.7.8 */
 (function() {
     var g = function(a) {
             if (a && a.stopPropagation) a.stopPropagation();
